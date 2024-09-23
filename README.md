@@ -9,20 +9,40 @@
 
 ---
 
-## 🌱 I’m currently learning **Spring Boot, Laravel**
-
-## 👨‍💻 My Website 
-[Visit my website](https://chamikagayashan.com)
-
-## 💬 Ask me about
-**Java**
-
-## 📫 Reach me at
-[mdmforceeg@gmail.com](mailto:mdmforceeg@gmail.com)
-
----
-
-![Coding](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<markdown-accessiblity-table>
+  <table align="center">
+    <tbody>
+      <tr border="none">
+        <td width="50%" align="left">
+          <ul dir="auto">
+            <li>
+              <p dir="auto">🌱 I’m currently learning **Spring Boot, Laravel**</strong></p>
+            </li>
+            <li>
+              <p dir="auto">👨‍💻 My Website <strong><a
+                    href="chamikagayashan.com">chamikagayashan.com</a>
+              </strong></p>
+            </li>
+            <li>
+              <p dir="auto">💬 Ask me about <strong>Java</strong></p>
+            </li>
+            <li>
+              <p dir="auto">📫 Reach me <strong><a
+                    href="mdmforceeg@gmail.com">dmforceeg@gmail.com</a></strong></p>
+            </li>
+          </ul>
+        </td>
+        <td width="50%" align="center">
+          <a target="_blank" rel="noopener noreferrer nofollow"
+            href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img
+              align="center" alt="Coding" width="450"
+              src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+              style="max-width: 100%;"></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</markdown-accessiblity-table>
 
 
 <hr/>
