@@ -34,20 +34,13 @@
         </td>
         <td width="50%" align="center">
           <a target="_blank" rel="noopener noreferrer nofollow"
-            href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img
-              align="center" alt="Coding" width="450"
-              src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
-              style="max-width: 100%;"></a>
+            href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en" alt="chamikathereal" style="max-width: 100%;"/></a>
         </td>
       </tr>
     </tbody>
   </table>
 </markdown-accessiblity-table>
 
-
-<hr/>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en" alt="chamikathereal" /></p>
 
 ---
 
