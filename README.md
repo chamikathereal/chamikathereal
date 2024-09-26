@@ -16,7 +16,7 @@
         <td width="50%" align="left">
           <ul dir="auto">
             <li>
-              <p dir="auto">🌱 I’m currently learning **Spring Boot, Laravel**</strong></p>
+              <p dir="auto">🌱 I’m currently learning Spring Boot, Laravel</strong></p>
             </li>
             <li>
               <p dir="auto">👨‍💻 My Website <strong><a
