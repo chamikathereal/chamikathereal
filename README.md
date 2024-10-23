@@ -1,9 +1,11 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="100px" data-animated-image="" style="max-width: 100%;"></a></p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikathereal&label=Profile%20views&color=0e75b6&style=flat" alt="chamikathereal" /> </p>
+
 <h1 align="center">Hi 👋, I'm Chamika Gayashan</h1>
 <h3 align="center">Software Engineer specializing in Java, with expertise in building modern, <br/> responsive websites using React JS, HTML/CSS, PHP, and JavaScript.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikathereal&label=Profile%20views&color=0e75b6&style=flat" alt="chamikathereal" /> </p>
+
 
 <p align="center" style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/chamikathereal" target="blank">
@@ -22,9 +24,9 @@
 
 <markdown-accessiblity-table>
 <div align="center" style="display: flex; justify-content: center;width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikathereal&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikathereal&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 180px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 180px;" />
 </div>
 
 </markdown-accessiblity-table>
