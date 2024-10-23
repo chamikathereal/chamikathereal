@@ -1,44 +1,31 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="100px" data-animated-image="" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm Chamika Gayashan</h1>
-<h3 align="center">Software Engineer specializing in Java, with expertise in building modern, responsive websites using React JS, HTML/CSS, PHP, and JavaScript.</h3>
+<h3 align="center">Software Engineer specializing in Java, with expertise in building modern, <br/> responsive websites using React JS, HTML/CSS, PHP, and JavaScript.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikathereal&label=Profile%20views&color=0e75b6&style=flat" alt="chamikathereal" /> </p>
 
-<p align="center"> <a href="https://twitter.com/chamikathereal" target="blank"><img src="https://img.shields.io/twitter/follow/chamikathereal?logo=twitter&style=for-the-badge" alt="chamikathereal" /></a> </p>
+<p align="center" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/chamikathereal" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+  </a>
+<!--   <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge" alt="Medium Profile" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Profile" />
+  </a> --> 
+</p>
+
 
 ---
 
 <markdown-accessiblity-table>
-  <table align="center">
-    <tbody>
-      <tr border="none">
-        <td width="50%" align="left">
-          <ul dir="auto">
-            <li>
-              <p dir="auto">🌱 I’m currently learning Spring Boot, Laravel</strong></p>
-            </li>
-            <li>
-              <p dir="auto">👨‍💻 My Website <strong><a
-                    href="chamikagayashan.com">chamikagayashan.com</a>
-              </strong></p>
-            </li>
-            <li>
-              <p dir="auto">💬 Ask me about <strong>Java</strong></p>
-            </li>
-            <li>
-              <p dir="auto">📫 Reach me <strong><a
-                    href="mdmforceeg@gmail.com">dmforceeg@gmail.com</a></strong></p>
-            </li>
-          </ul>
-        </td>
-        <td width="50%" align="center">
-          <a target="_blank" rel="noopener noreferrer nofollow"
-            href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en" alt="chamikathereal" style="max-width: 100%;"/></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+ <div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikathereal&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 195px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 195px;" />
+</div>
 </markdown-accessiblity-table>
 
 
@@ -56,3 +43,5 @@
 <a href="https://medium.com/@chamikathereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamikathereal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chamikathereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamikathereal" height="30" width="40" /></a>
 </p>
+
+
