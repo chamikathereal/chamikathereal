@@ -22,9 +22,9 @@
 
 <markdown-accessiblity-table>
 <div align="center" style="display: flex; justify-content: center;width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikathereal&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikathereal&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 170px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamikathereal&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="chamikathereal" style="height: 170px;" />
 </div>
 
 </markdown-accessiblity-table>
