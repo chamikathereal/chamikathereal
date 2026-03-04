@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikathereal&label=Profile%20views&color=0e75b6&style=flat" alt="chamikathereal" /> </p>
 
 <h1 align="center">Hi 👋, I'm Chamika Gayashan</h1>
-<h3 align="center">Software Engineer specializing in Java, with expertise in building modern, <br/> responsive websites using React JS, HTML/CSS, PHP, and JavaScript.</h3>
+<h3 align="center">Full Stack Developer (React.js & Java(Spring Boot)) | Software Engineering Undergraduate</h3>
 
 
 
