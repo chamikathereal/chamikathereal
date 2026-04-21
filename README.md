@@ -1,26 +1,68 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="100px" data-animated-image="" style="max-width: 100%;"></a></p>
+<!-- ================= HERO ================= -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamikathereal&label=Profile%20views&color=0e75b6&style=flat" alt="chamikathereal" /> </p>
+<h1 align="center">
+  ⚡ C H A M I K A &nbsp; G A Y A S H A N ⚡
+</h1>
 
-<h1 align="center">Hi 👋, I'm Chamika Gayashan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer (React.js(Next.js) & Java(Spring Boot))</h3>
-
-
-
-<p align="center" style="display: flex; gap: 10px;">
-  <a href="https://linkedin.com/in/chamikathereal" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
-  </a>
-<!--   <a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge" alt="Medium Profile" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Profile" />
-  </a> --> 
+<p align="center">
+  <b>Software Engineer | Java & React | Full Stack Developer</b>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FACC15&center=true&vCenter=true&width=600&lines=Building+Real+World+Products;Next.js+%2B+TypeScript+Specialist;Turning+Ideas+Into+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chamikathereal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://chamikathereal.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+    <a href="https://www.facebook.com/chamikathereaI/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chamikathereal">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+<!-- ================= ABOUT ================= -->
+
+## 🙋🏻‍♂️ Wanna know about me? Well, that's what I thought.
+
+I’m Chamika Gayashan, a dedicated Software Engineer who graduated from Birmingham City University. I specialize in building scalable, user-centric applications using Java (Spring Boot), React.js, and Next.js.
+
+Currently, I leverage my technical expertise to develop high-performance software solutions. In addition to my engineering career, I serve as a social media consultant, helping brands and influencers grow their digital presence.
+
+I’m a **product-focused engineer** building systems that solve real problems.
+
+- 🚀 Frontend Specialist (Next.js + TypeScript)
+- ⚙️ Backend with Java (Spring Boot)
+- 🎯 Focused on **scalable SaaS products**
+- 🌍 Building for global audience (US / EU)
+
+Passionate about creativity, I also explore music production as a hobbyist rap artist (CEE G).
+
+---
+
+<!-- ================= STACK ================= -->
+
+## ⚡ Tech Stack I Like To Work With.
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,java,spring,mysql,postgres,git" />
+</p>
+
+---
+
+<!-- ================= STATS ================= -->
+
+## 💻 The Works I Do.
 
 <markdown-accessiblity-table>
 <div align="center" style="display: flex; justify-content: center;width: 45%;">
@@ -31,20 +73,24 @@
 
 </markdown-accessiblity-table>
 
+---
+
+<!-- ================= VISION ================= -->
+
+## 🎯 My Vision I Want To Visualize
+
+I’m building toward:
+
+- 🧠 A global SaaS product
+- 💰 Financial independence through tech
+- 🌍 Impact beyond Sri Lanka
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- ================= FOOTER ================= -->
 
----
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/chamikathereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamikathereal" height="30" width="40" /></a>
-<a href="https://fb.com/chamikathereai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamikathereai" height="30" width="40" /></a>
-<a href="https://medium.com/@chamikathereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamikathereal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chamikathereal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamikathereal" height="30" width="40" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=10000&pause=1000&color=F7F7F7&vCenter=true&random=true&width=1501&lines=%22If+you+want+to+be+Prometheus%2C+you+must+learn+to+control+fire.+Otherwise%2C+it+will+burn+you.%22+++" alt="Typing SVG" /></a>
 </p>
-
 
